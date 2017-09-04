@@ -76,8 +76,12 @@ WSGI_APPLICATION = 'supersurvey.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'd3hfd6k9i9m2qf',
+        'USER': 'xcgvrfjkblnzqp',
+        'PASSWORD': 'AZzNsLhpzElg5u4a2T1_LYXvMa',
+        'PORT': '5432',
+        'HOST': 'ec2-54-243-199-161.compute-1.amazonaws.com',
     }
 }
 
