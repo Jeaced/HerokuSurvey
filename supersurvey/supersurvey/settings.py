@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'supersurvey.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd3hfd6k9i9m2qf',
-        'USER': 'xcgvrfjkblnzqp',
-        'PASSWORD': 'AZzNsLhpzElg5u4a2T1_LYXvMa',
+        'NAME': 'd3gpuu5inrsc82',
+        'USER': 'wgoemjruoyklxf',
+        'PASSWORD': '706f5527687619171467f34894b6e4893677b179c4fa5ac6980da008419fe29e',
         'PORT': '5432',
-        'HOST': 'ec2-54-243-199-161.compute-1.amazonaws.com',
+        'HOST': 'ec2-46-137-97-169.eu-west-1.compute.amazonaws.com',
     }
 }
 
