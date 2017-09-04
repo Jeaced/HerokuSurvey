@@ -1,0 +1,7 @@
+Django==1.9.7
+django-filter==0.13.0
+gunicorn==19.6.0
+Markdown==2.6.6
+Pillow==3.3.1
+psycopg2==2.6.1
+requests==2.14.2
